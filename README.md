@@ -1,2 +1,0 @@
-# MMkodiADDONS
-addons

@@ -1,2 +1,2 @@
-# MMkodiADDONS
-addons
+zips
+
